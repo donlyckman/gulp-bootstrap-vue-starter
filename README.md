@@ -3,9 +3,9 @@ Starter project for using Gulp & Bootstrap
 
 **Prerequisites**  
 Node & Gulp are required  
-- [Gulp Setup](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-
-
+- [Node Setup](https://nodejs.org)  
+- [Gulp Setup](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)  
+  
 **Installation**  
 Create a new folder: `mkdir newProject`
 
