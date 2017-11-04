@@ -5,6 +5,7 @@ Starter project for using Gulp & Bootstrap
 Node & Gulp are required  
 - [Node Setup](https://nodejs.org)  
 - [Gulp Setup](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)  
+
   
 **Installation**  
 Create a new folder: `mkdir newProject`
@@ -30,9 +31,11 @@ npm i del --save
 npm i browser-sync gulp --save-dev  
 npm i jquery --save  
 npm i bootstrap@4.0.0-beta.2 --save  
+npm i vue --save
 ```
 
 **Reference**  
 - [Bootstrap](http://getbootstrap.com/)  
 - [Node](https://nodejs.org/)  
 - [Gulp](https://gulpjs.com/)  
+- [Vue](https://vuejs.org/)   
