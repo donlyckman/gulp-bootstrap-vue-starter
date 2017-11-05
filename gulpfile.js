@@ -41,10 +41,10 @@ gulp.task( 'vendorsJS', function () {
 } );
 
 // Task for vendors CSS files
-gulp.task( 'vendorsCSS', function () {
-    return gulp.src( ['node_modules/bootstrap/dist/css/bootstrap.min.css', 'node_modules/bootstrap/dist/css/bootstrap.min.css.map'] )
-        .pipe( gulp.dest( dst + '/css' ) );
-} );
+// gulp.task( 'vendorsCSS', function () {
+//     return gulp.src( ['node_modules/bootstrap/dist/css/bootstrap.min.css', 'node_modules/bootstrap/dist/css/bootstrap.min.css.map'] )
+//         .pipe( gulp.dest( dst + '/css' ) );
+// } );
 
 // Task for SASS Files 
 gulp.task( 'sass', function() {
@@ -101,7 +101,7 @@ gulp.task( 'clean', function( done ) {
 
 // Task for Build
 gulp.task( 'build', function( done ) {
-    run_sequence( 'clean', ['html', 'images', 'scripts', 'sass', 'vendorsJS', 'vendorsCSS'], done );
+    run_sequence( 'clean', ['html', 'images', 'scripts', 'sass', 'vendorsJS'], done );
 } );
 
 // Task for Loading Browsersync and watching for project changes
