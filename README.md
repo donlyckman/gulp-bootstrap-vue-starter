@@ -39,3 +39,4 @@ npm i vue --save
 - [Node](https://nodejs.org/)  
 - [Gulp](https://gulpjs.com/)  
 - [Vue](https://vuejs.org/)   
+- [Font Awesome](http://fontawesome.io/)   
