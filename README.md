@@ -34,8 +34,8 @@ npm i bootstrap@4.0.0-beta.2 --save
 npm i vue --save
 ```
 
-**Reference**  
-- [Bootstrap](http://getbootstrap.com/)  
+**Reference**
+- [Bootstrap](http://getbootstrap.com/)
 - [Node](https://nodejs.org/)  
 - [Gulp](https://gulpjs.com/)  
 - [Vue](https://vuejs.org/)   
