@@ -38,5 +38,5 @@ npm i vue --save
 - [Bootstrap](http://getbootstrap.com/)
 - [Node](https://nodejs.org/)  
 - [Gulp](https://gulpjs.com/)  
-- [Vue](https://vuejs.org/)   
-- [Font Awesome](http://fontawesome.io/)   
+- [Vue](https://vuejs.org/)  
+- [Font Awesome](http://fontawesome.io/)  
