@@ -1,3 +1,5 @@
 // Main CSS File 
-@import "themes/ocean/bootstrap.scss";
 @import "config/index";
+@import "themes/ocean/bootstrap.scss";
+@import "mixins/index";
+@import "pages/index";
