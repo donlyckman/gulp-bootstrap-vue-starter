@@ -1,5 +1,5 @@
 # gulp-bootstrap-starter
-Starter project for using Gulp & Bootstrap
+Starter project for using Gulp, Bootstrap, Vue & Font Awesome
 
 **Prerequisites**  
 Node & Gulp are required  
