@@ -1,4 +1,4 @@
-# gulp-bootstrap-starter
+# gulp-bootstrap-vue-starter
 Starter project for using Gulp, Bootstrap, Vue & Font Awesome
 
 **Prerequisites**  
